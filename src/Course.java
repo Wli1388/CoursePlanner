@@ -1,5 +1,5 @@
 /**
- * @author Name: Wen Feng Li ID: 115091650 Recitation Section 02
+ * @author Name: Wen Feng Li 
  * 
  *         This class represents a Course which has a name, department,
  *         instructor, code, and section

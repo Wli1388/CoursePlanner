@@ -1,6 +1,6 @@
 
 /**
- * @author Name: Wen Feng Li ID: 115091650 Recitation Section 02
+ * @author Name: Wen Feng Li
  * 
  * This class represents a PlannerManager that is used to combine all the other 
  * classes together to execute operations relating to Courses in a Planner

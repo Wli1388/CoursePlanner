@@ -1,5 +1,5 @@
 /**
- * @author Name: Wen Feng Li ID: 115091650 Recitation Section 02
+ * @author Name: Wen Feng Li
  * 
  *         This class represents a IllegalArgumentException that indicates that
  *         position is not within the valid range

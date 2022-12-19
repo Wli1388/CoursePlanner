@@ -1,5 +1,5 @@
 /**
- * @author Name: Wen Feng Li ID: 115091650 Recitation Section 02
+ * @author Name: Wen Feng Li
  * 
  *         This class represents a FullPlannerException that indicates that
  *         there is no more room in the Planner to record an additional course

@@ -1,5 +1,5 @@
 /**
- * @author Name: Wen Feng Li ID: 115091650 Recitation Section 02
+ * @author Name: Wen Feng Li 
  * 
  *         This class represents a Planner which has a MAX_COURSES maximum
  *         size, planner list that stores Courses, and the actual size of the
